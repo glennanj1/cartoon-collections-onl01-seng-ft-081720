@@ -28,5 +28,7 @@ def find_the_cheese(array)
   cheese = "cheddar", "gouda", "camembert"
   if array.include? cheese
     cheese
+  else
+    break
     
 end
