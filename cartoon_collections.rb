@@ -25,8 +25,8 @@ def long_planeteer_calls(array)
 end
 
 def find_the_cheese(array)
-  cheese
-  if array.include? = "cheddar", "gouda", "camembert"
+  cheese = "cheddar", "gouda", "camembert"
+  if array.include? cheese
     puts "#{
     
 end
